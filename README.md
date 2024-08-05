@@ -3,7 +3,7 @@
 The aim of this C++ code is to demonstrate the use of various looping constructs and nested loops.
 
 # Theory
-**Looping Constructs**
+**We would be discussing about various Looping Constructs**
 1) do-while Loop
 
 2) for Loop
