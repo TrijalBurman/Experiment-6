@@ -4,21 +4,21 @@ The aim of this C++ code is to demonstrate the use of various looping constructs
 
 # Theory
 **We would be discussing about various Looping Constructs**
-1) do-while Loop
+1) do-while Loop: Executes the code block once, then repeats as long as the condition remains true.
+   
+2) for Loop: Repeats code a specific number of times, based on initialization, condition, and increment.
 
-2) for Loop
+3) while Loop: Repeats code as long as the specified condition is true.
 
-3) while Loop
+4) Nested for Loops: Multiple for loops inside each other, often used for iterating over multi-dimensional data.
 
-4) Nested for Loops
+5) Nested do-while Loops: Multiple do-while loops within each other, executing inner blocks multiple times based on conditions.
 
-5) Nested do-while Loops
+6) Nested while Loops: Multiple while loops within each other, where the inner loop completes all its iterations before the outer loop continues.
 
-6) Nested while Loops
+7) Nested for Loops (Matrix): A pair of for loops used to iterate over rows and columns of a matrix.
 
-7) Nested for Loops (Matrix)
-
-8) Nested for + while Loops (Matrix with Condition)
+8) Nested for + while Loops (Matrix with Condition): A for loop with an inner while loop to process matrix elements conditionally.
 
 # Code 
  <br>
